@@ -1,5 +1,0 @@
-words= input("Enter the words: ")
-words.split()
-enter_the_sign= input("enter the character to seperate: ")
-new_string = enter_the_sign.join(words)
-print("new string: ", new_string)
